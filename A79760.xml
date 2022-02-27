@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stirling, 24 October, 1650. Ante-meridiem. A short warning, from the Commission of the Generall Assemblie; concerning the malignants now in arms</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79760</idno>
+            <idno type="STC">Wing C4259DA</idno>
+            <idno type="STC">ESTC R229118</idno>
+            <idno type="EEBO-CITATION">99899847</idno>
+            <idno type="PROQUEST">99899847</idno>
+            <idno type="VID">136312</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79760)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136312)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2459:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Stirling, 24 October, 1650. Ante-meridiem. A short warning, from the Commission of the Generall Assemblie; concerning the malignants now in arms</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+                  <author>Ker, A.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Signed at end: A. Ker.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="warning">
+            <pb facs="tcp:136312:1"/>
+            <!-- PDF PAGE 56 -->
+            <gap reason="intruder" extent="1 page">
+               <desc>〈1 page inserted from a different book〉</desc>
+            </gap>
+            <pb facs="tcp:136312:1"/>
+            <!-- PDF PAGE 56 -->
+            <opener>
+               <dateline>Stirling, <date>24 October, 1650. <hi>Ante-meridiem.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <head>A SHORT WARNING, From the Commiſsion of the <hi>Generall Aſſemblie;</hi> Concerning the Malignants now in Arms.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lbeit the Deſigns and Carriage, of the Malignant partie now in Arms, and their Com<g ref="char:EOLhyphen"/>plices, bee in themſelues ſo many, and ſo manyfeſtly wicked, as may render them odious, and deteſtable, unto all the people of GOD, in this Land, at the firſt looking thereon; Yet the LORD having called vs thereunto, wee hold it our due<g ref="char:EOLhyphen"/>tie (as here-to-fore) to giue Warning thereof; Both for the reclaming of theſe, who are already inſnared therein, and for the guarding of others, agaynſt Temptations thereunto.</p>
+            <pb n="2" facs="tcp:136312:2"/>
+            <!-- PDF PAGE 57 -->
+            <p>Wee need not bee at much payns, in fynding out of theſe mens intentions; nor go far off, for Learning of the ends which they propoſe unto themſelues, in their preſent actings; Theſe being no other, than hath bene promoted by the Malignant partie from the beginning: To wit, the ſetting vp of them<g ref="char:EOLhyphen"/>ſelues, under a pretence of Promoting Royall Authoritie, and kingly intereſt; That they may the more eaſily bear down theſe who haue bene inſtrumentall in the Work of GOD; and at laſt deſtroy the Work it ſelf, a deſign which had bene to bee abhorred in any; but much more in theſe men, who are ſo So<g ref="char:EOLhyphen"/>lemnly tyed before the LORD, by the Oath of the COVE<g ref="char:EOLhyphen"/>NANT vnto the contrary, and agaynſt whoſe former Malig<g ref="char:EOLhyphen"/>nant wayes, and back-ſlydings, the LORDS Hand hath been lifted up ſo high, unto the breaking of the Pryde of their Power, oftner than once: And, who haue ſo lately bene offe<g ref="char:EOLhyphen"/>ring and profeſſing, before the CHURCH of GOD, their Repentance, for ſuch things; as being convinced in their Con<g ref="char:EOLhyphen"/>ſciences of the Sinfulneſs, and Unlawfulneſs of the ſame: And, who ſtand under the Tye of ſo many Promiſes &amp; Subſcriptions, both to the State &amp; Church, to the contrarie: Severall of the moſt eninent amongſt them, do by theſe their late actions ſtand now proclamed before the World, &amp; under their own hands, infamous &amp; perfidious Covenant breakers: And, it doth much highten their iniquitie; That they haue conſpired together a<g ref="char:EOLhyphen"/>gainſt GODS People, in ſuch a tyme; when there is alſo an<g ref="char:EOLhyphen"/>other Enemie in the Land, deſigning Miſchief againſt Reli<g ref="char:EOLhyphen"/>gion, and Government.</p>
+            <p>Wee may ſay, Wee are brought low: But wee hope, That the LORD ſhall prevent vs, with His Mercies, and require it at their hands. If there bee any place left for exhortation, wee WVRN theſe men, to conſider, How the Wrath &amp; Vengeance of the LORD hath been perſuing the Malignant partie, in all theſe Kingdoms, theſe many years paſt; and, how many tymes their own Deſigns haue bene blaſted, and themſelues brought nigh vnto Deſtruction; And, to remember what a ſevere Aven<g ref="char:EOLhyphen"/>ger
+<pb n="3" facs="tcp:136312:2"/>
+               <!-- PDF PAGE 57 -->the LORD is of Covenant-breaking, and of the open mocking of His NAME, by falling fouly agayn into theſe ſinnes, which once haue bene confeſſed, &amp; they ſeem to haue repented of: And what a foull ſtayn it is upon their Conſcien<g ref="char:EOLhyphen"/>ces and credit, to go contrary to ſo many late Profeſſions, and violate ſo many Bands and Obligations, taken upon themſelues for avoyding all Malignant Wayes, and not diſturbing the Peace of the Kingdom: And, how monſtrous and unnaturall a thing it is, to haue riſen agaynſt their Countrey, and the Pub<g ref="char:EOLhyphen"/>lick Authoritie of the Land, when they had to do with a pre<g ref="char:EOLhyphen"/>vayling Enemie; And, it ſhall bee Wiſdom for theſe that are in Authoritie, to walk with Malignants, according to the rule of the Word of GOD, and Band of the COVENANT, to take good heed of truſting, and taking in, ſuch as haue bene oppoſit to the Work of GOD, ſo many experiences teaching the unſoundneſs of moſt of theſe from year to year, which al<g ref="char:EOLhyphen"/>ſo may teach all theſe who haue recovered themſelues, out of ſuch Snares, to take heed, that they bee not agayn involved therein; But that as they haue profeſſed their Repentance, for their Acceſſion to any Malignant courſs, ſo they may labour to get their Hearts eſtabliſhed through Grace, that they fall not back with others, into the ſame Sinne.</p>
+            <p>AND, Wee exhort the whole LAND, To beware of Complyance, with theſe Sonnes of <hi>Beliall,</hi> either by joyning with them in Armes, or concurring in Counſell and Deſigns, or by aſſiſting them with men, or moneyes, or proviſions, or by correſponding with them, or countenancing of them, or conniving at their wicked wayes; As they would not draw Guilt vpon themſelues, before the LORD, and proue Trea<g ref="char:EOLhyphen"/>cherous and Unſteadfaſt in His COVENANT and CAUSE.</p>
+            <p>THE Straytes and Sufferinges of His People, bee indeed, at this tyme, many and great: But it is better to ſuffer the hardeſt of Afflictions, than to ſinne agaynſt GOD, by com<g ref="char:EOLhyphen"/>plying with an evill Courſs: And, Wee are confident, That
+<pb n="4" facs="tcp:136312:6"/>
+               <!-- PDF PAGE 58 -->vnto thoſe who keep their Steadfaſtneſs, GOD ſhall open a Door of Hope, and make a Day of SALVATION to ap<g ref="char:EOLhyphen"/>pear: Therefore, Let all men, in the Strength and Fear of the LORD, do their Duetie agaynſt Enemies on both hands; And the LORD ſhall giue DELIVERANCE.</p>
+            <closer>
+               <signed>A. Ker.</signed>
+            </closer>
+            <pb facs="tcp:136312:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <gap reason="intruder" extent="1 page">
+               <desc>〈1 page inserted from a different book〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
